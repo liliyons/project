@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(216, 124, 185);
+}
+
+.container{
+text-align: center;  
+padding-top: 300px;
+}  
+
+#btn{  
+font-size: 25px;
+border-radius: 15px;
+padding: 10px;
+color: black;
+background-color: rgb(216, 124, 185);
+cursor: pointer;
+} 
+
+#btn:hover{
+background-color: rgb(49, 83, 52);
+border: none;
+color: white;
+}
